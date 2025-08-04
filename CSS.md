@@ -8,3 +8,4 @@
   - Single-handedly the best [CSS](https://courses.joshwcomeau.com/css-for-js) & [React](https://courses.joshwcomeau.com/joy-of-react) courses I have ever taken. I only trully grasped CSS after his course.
 - [Miriam Suzanne](https://www.miriamsuzanne.com/)
   - Core SASS maintainer, part of the @w3c CSS Working group.
+- [Salma Alan-Naylor](https://whitep4nth3r.com/)
