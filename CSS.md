@@ -9,7 +9,10 @@
 - [Miriam Suzanne](https://www.miriamsuzanne.com/)
   - Core SASS maintainer, part of the @w3c CSS Working group.
 - [Salma Alan-Naylor](https://whitep4nth3r.com/)
+- [Val Head](https://valhead.com/), [Sara Soueidan](https://www.sarasoueidan.com/), 
+  - A11y and accessibility expert!
 
-## Resoucres
+## Resources
 
 - [CSS Generators](https://css-generators.com/). An awesome library of custom CSS ready to be copied and pasted into any application. I specially like their [custom borders](https://css-generators.com/custom-borders/).
+
