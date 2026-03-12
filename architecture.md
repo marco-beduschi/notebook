@@ -1,2 +1,2 @@
-## People to follow
+## People I follow
 https://journal.stuffwithstuff.com/
